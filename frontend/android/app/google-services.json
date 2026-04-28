@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666105308068",
+    "project_id": "fieldproject-b7dc5",
+    "storage_bucket": "fieldproject-b7dc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666105308068:android:4a4e3e701cc1528d45d731",
+        "android_client_info": {
+          "package_name": "com.smartbuilding.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHwEzRTdSoxrKNi5tgpRz5iXEYg0_LfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
